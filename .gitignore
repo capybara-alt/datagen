@@ -6,5 +6,5 @@ out/csv/**
 !out/xml/.gitkeep
 !out/json/.gitkeep
 !out/csv/.gitkeep
-go.mod
+go.sum
 .vscode
