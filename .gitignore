@@ -1,5 +1,5 @@
-config/settings/**
-!config/settings/samples/
+config/settings/*.*
+!config/settings/samples/*.json
 out/xml/**
 out/json/**
 out/csv/**
