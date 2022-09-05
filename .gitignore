@@ -1,0 +1,10 @@
+config/settings/**
+!config/settings/samples/
+out/xml/**
+out/json/**
+out/csv/**
+!out/xml/.gitkeep
+!out/json/.gitkeep
+!out/csv/.gitkeep
+go.mod
+.vscode
